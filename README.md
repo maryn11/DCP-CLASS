@@ -1,1 +1,1 @@
-6
+lucky number: 6
